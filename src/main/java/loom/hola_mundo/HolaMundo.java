@@ -15,6 +15,6 @@ public class HolaMundo {
      * @return persona saludada.
      */
     public String saludar(final String persona) {
-        return "¡Holaaaaa, " + persona + "!";
+        return "¡Hola, " + persona + "!";
     }
 }
